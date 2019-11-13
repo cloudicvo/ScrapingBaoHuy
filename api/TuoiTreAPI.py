@@ -75,8 +75,7 @@ class TuoiTreAPI:
                 "hoc-duong": 1507,
                 "bai-giai-dap-an": 200054,
                 "du-hoc": 85,
-                "cau-chuyen-giao-duc": 913,
-                "goc-hoc-tap": 200020
+                "cau-chuyen-giao-duc": 913
             },
             "khoa-hoc": {
                 "thuong-thuc": 200010,
